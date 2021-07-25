@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+### 🔭 Specialist:
+![image](https://user-images.githubusercontent.com/87874318/126885037-eba9f1e0-9528-4058-95c9-9900dc7f44af.png)
+![image](https://user-images.githubusercontent.com/87874318/126885044-b71b0f4b-41f5-4c01-aaf8-bb7367aef94f.png)
+![image](https://user-images.githubusercontent.com/87874318/126885049-d2f81801-65b1-4bae-8d62-28b10d56637e.png)
+
+### 🌱 I’m currently working on:
+@...
+
+### 📫 How to reach me:
+https://twitter.com/3xemploo
+Discord - exemplo.#0001
 <!--
 **ExemploDev/ExemploDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
