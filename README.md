@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-😄 Meu nome é João.
-💬 Sou um Desenvolvedor procurando sempre melhorar e ajudar a todos.
+😄 Meu nome é João, sou um Desenvolvedor procurando sempre melhorar e ajudar a todos.
 
 
 ### 🔭 Escpecialidade e Ferramenta
