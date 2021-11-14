@@ -1,4 +1,7 @@
 ### Hi there 👋
+😄 Meu nome é João.
+💬 Sou um Desenvolvedor procurando sempre melhorar e ajudar a todos.
+
 
 ### 🔭 Escpecialidade e Ferramenta
 ![image](https://user-images.githubusercontent.com/87874318/141664889-0febddf4-f9bd-4059-9787-9e019f7951e4.png)
@@ -11,7 +14,7 @@
 
 
 ### 🌱 I’m currently working on:
-@...
+@Luno-Team
 
 ### 📫 How to reach me:
 https://twitter.com/3xemploo
